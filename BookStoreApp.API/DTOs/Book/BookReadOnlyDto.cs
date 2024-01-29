@@ -1,4 +1,4 @@
-﻿namespace BookStoreApp.API.Models.Book
+﻿namespace BookStoreApp.API.DTOs.Book
 {
     public class BookReadOnlyDto:BaseDto
     {
